@@ -1,0 +1,29 @@
+/* basic reset */
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+  padding:0;
+  margin:0;
+}
+
+header{
+  nav{
+    background: #000;
+    height: 30px;
+    ul{
+      list-style-type:none;
+      li{
+        display:inline;
+        line-height: 33px;
+        margin-left: 15px;
+        text-transform: uppercase;
+        a{
+          text-decoration: none;
+          color: #fff;
+          &:hover{
+            text-decoration:underline;
+          }
+        }
+      }
+    }
+  }
+}
