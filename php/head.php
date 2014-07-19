@@ -15,7 +15,9 @@ echo '<!doctype html>
   <link rel="stylesheet" href="css/style.css">
 
   <!-- js scripts declaration -->
-  <script type="text/javascript" src="js/vendors/jquery.min.js."></script>
+  <script type="text/javascript" src="js/vendors/jquery.min.js"></script>
+ <script type="text/javascript" src="js/vendors/skrollr.js"></script>
+ <script type="text/javascript" src="js/custom/script.js"></script>
 </head>
 
 <body>';

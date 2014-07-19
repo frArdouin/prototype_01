@@ -6,7 +6,7 @@
  * Time: 16:38
  */
 
-echo '<footer>footer</footer>
+echo '<footer><p>copyright</p></footer>
     </body>
     </html>
 ';
